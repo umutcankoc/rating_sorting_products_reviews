@@ -2,6 +2,7 @@
  Amazon data set ile Python Rating Products ve Sorting Reviews
 
 **İş Problemi**
+
 E-ticaretteki en önemli problemlerden bir tanesi ürünlere satış
 sonrası verilen puanların doğru şekilde hesaplanmasıdır. Bu
 problemin çözümü e-ticaret sitesi için daha fazla müşteri
